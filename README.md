@@ -25,7 +25,7 @@ The app allows users to add income and expenses, manage entries with CRUD operat
 - **Frontend:** Vue 3
 - **Adapter:** Inertia.js
 - **Build Tool:** Vite
-- **Database:** SQLite (can be changed easily)
+- **Database:** MySQL
 - **Authentication:** Laravel Breeze
 
 ---
